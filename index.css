@@ -1,0 +1,32 @@
+body{
+    font-family: 'inter', sans-serif;
+    background-color : #f4f7f6 ; 
+    color : #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+.cv-container{
+    max-width: 800px;
+    background-color: #ffff;
+    margin: 0 auto;
+    padding: 40px;
+    }
+h1{
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+.section-title {
+    /* Style du bloc */
+    background-color: #e0e0e0; /* Fond gris */
+    border: 1.5px solid #000000; /* Bordure noire autour du titre */
+    padding: 6px 12px;         /* Espace intérieur (haut/bas et gauche/droite) */
+    margin-top: 25px;          /* Espace au-dessus du titre */
+    margin-bottom: 15px;       /* Espace en dessous du titre */
+    
+    /* Style du texte */
+    font-weight: bold;
+    text-transform: uppercase; /* Force le texte en majuscules */
+    letter-spacing: 1px;        /* Léger espacement entre les lettres */
+    color: #000000;
+    font-size: 1rem;
+}
